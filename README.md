@@ -7,4 +7,4 @@ ansible-playbook -i inventory/aws_ec2.yml playbook.yml
 ```
 
 ### Screenshot
-![image](./screenshot.png)
+![image](./server-img.png)
