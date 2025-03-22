@@ -1,3 +1,10 @@
 # 4640-w11-lab-start-w25
 
-See lab instructions on D2L
+### Commands to run the Ansible configuration
+```
+cd ansible
+ansible-playbook -i inventory/aws_ec2.yml playbook.yml
+```
+
+### Screenshot
+![image](./screenshot.png)
